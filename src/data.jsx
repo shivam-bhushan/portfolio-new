@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "Flutter and Firebase",
       description:
         "A dynamic social media app crafted with Flutter and fueled by the robust backend of Firebase. ChatterBox features a secure login, a vibrant wall where every message resonates",
-      image: "../public/assets/ChatterBoxAssets/Your paragraph text Instagram.png",
+      image: "/assets/ChatterBoxAssets/Your paragraph text Instagram.png",
       link: "https://github.com/shivam-bhushan/ChatterBox",
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
       subtitle: "React Native and Sanity",
       description:
       "A cutting-edge food delivery app meticulously crafted with React Native and powered by the seamless content management of Sanity CMS. Order food from your favorite places",
-      image: "../public/assets/Delivery.avif",
+      image: "/assets/Delivery.avif",
       link: "https://github.com/shivam-bhushan/DeliveryApp",
     },
     {
@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "React",
       description:
       "This intuitive todo app, built with the power of React, is designed to simplify your task management experience and keep you organized in the most efficient way possible.",
-      image: "../public/assets/todoapp.png",
+      image: "/assets/todoapp.png",
       link: "https://to-do-app-react-sb.netlify.app",
     },
     {
@@ -28,7 +28,7 @@ export const projects = [
       subtitle: "Javascript",
       description:
       "Dynamic Drum Kit, an interactive web application that brings the joy of drumming to your fingertips. This drum kit allows you to unleash your rhythmic creativity in a fun and immersive way.",
-      image: "../public/assets/jsdrumkit.png",
+      image: "/assets/jsdrumkit.png",
       link: "https://js-drum-kit-sb.netlify.app",
     },
     {
@@ -36,7 +36,7 @@ export const projects = [
       subtitle: "Pandas, Matplotlib, Tensorflow and Sklearn",
       description:
       "Using Pandas for data manipulation, Matplotlib for visualization, and TensorFlow with Scikit-Learn for modeling, this project predicts student marks with an accuracy of approximately 92%.",
-      image: "../public/assets/Student with Laptop Online Course Illustration.avif",
+      image: "/assets/Student with Laptop Online Course Illustration.avif",
       link: "https://js-drum-kit-sb.netlify.app",
     },
     {
@@ -44,7 +44,7 @@ export const projects = [
       subtitle: "Flutter",
       description:
       "This is a simple calculator app built using the Flutter framework. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.",
-      image: "../public/assets/Calculator.png",
+      image: "/assets/Calculator.png",
       link: "https://github.com/shivam-bhushan/Calculator-Flutter/tree/main",
     },
   ];
