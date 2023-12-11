@@ -28,7 +28,7 @@ export default function About() {
           </h1>
 
           <p className="sm:text-lg lg:text-2xl text-slate-300 mx-4 sm:mx-0">
-          Detail-oriented, organised and meticulous person. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success. Offering advanced knowledge of in-demand programming languages. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing good code.
+          Detail-oriented, organised and meticulous person. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success. Complex problem-solver with analytical and driven mindset.
           </p>
           <div className="flex items-center space-x-3 text-center font-medium mt-7 text-lg ">
             <a
