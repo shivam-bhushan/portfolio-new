@@ -37,7 +37,7 @@ export const projects = [
       description:
       "Using Pandas for data manipulation, Matplotlib for visualization, and TensorFlow with Scikit-Learn for modeling, this project predicts student marks with an accuracy of approximately 92%.",
       image: "/assets/Student with Laptop Online Course Illustration.avif",
-      link: "https://js-drum-kit-sb.netlify.app",
+      link: "https://github.com/shivam-bhushan/ML-Marks-Prediction",
     },
     {
       title: "Calculator App",
